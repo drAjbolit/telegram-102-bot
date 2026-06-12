@@ -1,7 +1,7 @@
 ﻿<?php
 
 // ВСТАВЬ НОВЫЙ ТОКЕН ПОСЛЕ ПЕРЕВЫПУСКА В BOTFATHER
-$TOKEN = '8811241146:AAEsYPrecc-mR13oGtRYEGK9EijPvH4vvAI';
+$TOKEN = '4vvAI';
 
 function tg($method, $data = [])
 {
