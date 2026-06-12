@@ -1,7 +1,7 @@
 ﻿<?php
 
-// ВСТАВЬ НОВЫЙ ТОКЕН ПОСЛЕ ПЕРЕВЫПУСКА В BOTFATHER
-$TOKEN = '4vvAI';
+
+$TOKEN = getenv('TOKEN');
 
 function tg($method, $data = [])
 {
