@@ -1,0 +1,4 @@
+﻿services:
+  - type: web
+    name: telegram-102-bot
+    env: docker
